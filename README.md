@@ -7,6 +7,6 @@ I have long been interested in the **space and defence sector**, and most of my 
 I am most proficient in Python (matpltolib, pandas, numpy), Java and C, but I still have much to learn! 
 In school, I am **currently learning software engineering practices, basic web development and algorithms**. 
 
-Check out my [LinkedIn](www.linkedin.com/in/liamakelly) page too!  
+Check out my LinkedIn page too: www.linkedin.com/in/liamakelly
 
 Otherwise, be sure to have a look at some of my code and let me know what you think! 
