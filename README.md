@@ -15,4 +15,4 @@ Otherwise, be sure to have a look at some of my code and let me know what you th
 
 I try to keep this list up to date as much as possible. Here are some of my projects: 
 
-[Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker)
+[Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
