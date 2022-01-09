@@ -17,6 +17,4 @@ Here are some of my projects that I have built so far:
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
 
-<!---
 [Library System Simulator](https://github.com/kliam11/library-sim) 
----> 
