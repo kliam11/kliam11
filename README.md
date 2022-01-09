@@ -16,9 +16,15 @@ Here are some of my projects that I have built or am building:
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
 
-[Library System Simulator](https://github.com/kliam11/library-sim) 
+<!--- 
+[API for Sharing RaspberryPi Sensor Data]() (*IN PROGRESS*)
 
-## Contacts 
+[Enviornemntal Science Analysis with NOAA Data]() (*IN PROGRESS*)
+ --->
+ 
+ [Library System Simulator](https://github.com/kliam11/library-sim) 
+
+## Contact 
 
 LinkedIn: www.linkedin.com/in/liamakelly
 
