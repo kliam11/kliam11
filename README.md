@@ -7,9 +7,7 @@ I have long been interested in the **space and defence sector** 🚀, and most o
 I am most proficient in Python (matpltolib, pandas, numpy), Java and C, but I still have much to learn! 
 In school, I am **currently learning software engineering practices, basic web development and algorithms**. 
 
-Check out my LinkedIn page too: www.linkedin.com/in/liamakelly
-
-Otherwise, be sure to have a look at some of my code and let me know what you think! 
+Have a look at some of my code and let me know what you think! 
 
 ## Projects 
 
@@ -18,3 +16,9 @@ Here are some of my projects that I have built or am building:
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
 
 [Library System Simulator](https://github.com/kliam11/library-sim) 
+
+## Contacts 
+
+LinkedIn: www.linkedin.com/in/liamakelly
+
+Email: kliam549@gmail.com 
