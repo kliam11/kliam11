@@ -13,6 +13,10 @@ Otherwise, be sure to have a look at some of my code and let me know what you th
 
 ## Projects 
 
-I try to keep this list up to date as much as possible. Here are some of my projects: 
+Here are some of my projects that I have built either on my own time or for school: 
+
+### Personal 
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
+
+### School 
