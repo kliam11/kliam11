@@ -13,7 +13,7 @@ Otherwise, be sure to have a look at some of my code and let me know what you th
 
 ## Projects 
 
-Here are some of my projects that I have built so far: 
+Here are some of my projects that I have built or am building: 
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
 
