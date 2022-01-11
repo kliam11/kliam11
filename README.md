@@ -12,8 +12,6 @@ On my own time, I am learning a smattering of data analysis, API development and
 
 ## Projects 
 
-Here are some of my projects that I have built or am building: 
-
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
 
 <!--- 
