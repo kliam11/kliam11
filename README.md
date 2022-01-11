@@ -27,5 +27,3 @@ Here are some of my projects that I have built or am building:
 ## Contact 
 
 Email: kliam549@gmail.com 
-
-LinkedIn: www.linkedin.com/in/liamakelly
