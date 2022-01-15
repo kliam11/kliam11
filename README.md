@@ -20,7 +20,9 @@ On my own time, I am learning a smattering of data analysis, API development and
 [Enviornemntal Science Analysis with NOAA Data]() (*IN PROGRESS*)
  --->
  
- [Library System Simulator](https://github.com/kliam11/library-sim) 
+[Library System](https://github.com/kliam11/library-sim) 
+ 
+[Desktop Cash Register](https://github.com/kliam11/cash-register-sim) 
 
 ## Contact 
 
