@@ -12,7 +12,7 @@ On my own time, I am learning a smattering of data analysis, API development and
 
 ## Projects 
 
-[Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker) (*IN PROGRESS*)
+[Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker)
 
 <!--- 
 [API for Sharing RaspberryPi Sensor Data]() (*IN PROGRESS*)
