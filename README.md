@@ -3,7 +3,7 @@
 I'm Liam and I am a sophomore Computer Science student at Carleton University in Ottawa, Ontario. I enjoy hiking, baking treats for my dogs, 
 and am a huge hsitory buff. 
 
-I ahve long been interested in the space and defense industry, and some of my projects will have relevance to that. However, I am open to 
+I have long been interested in the space and defense industry, and some of my projects will have relevance to that. However, I am open to 
 all opportunities to learn. 
 
 I am most proficient in Python (matpltolib, pandas, numpy), Java and C, but I still have much to learn! 
