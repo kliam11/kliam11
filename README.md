@@ -14,11 +14,7 @@ On my own time, I am learning a smattering of data analysis, API development and
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker)
 
-<!--- 
-[API for Sharing RaspberryPi Sensor Data]() (*IN PROGRESS*)
-
-[Enviornemntal Science Analysis with NOAA Data]() (*IN PROGRESS*)
- --->
+[LoFi Music Player Widget](https://github.com/kliam11/lofi-player-widget) 
  
 [Library System](https://github.com/kliam11/library-sim) 
  
@@ -27,3 +23,4 @@ On my own time, I am learning a smattering of data analysis, API development and
 ## Contact 
 
 Email: kliam549@gmail.com 
+
