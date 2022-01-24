@@ -1,10 +1,7 @@
 ## About Me
 
 I'm Liam and I am a sophomore Computer Science student at Carleton University in Ottawa, Ontario. I enjoy hiking, baking treats for my dogs, 
-and am a huge hsitory buff. 
-
-I have long been interested in the space and defense industry, and some of my projects will have relevance to that. However, I am open to 
-all opportunities to learn. 
+and am a huge hsitory buff. I am interested in learning as much as possible about the different roles in software development.
 
 I am most proficient in Python (matpltolib, pandas, numpy), Java and C, but I still have much to learn! 
 In school, I am currently learning software engineering practices, basic web development and algorithms. 
