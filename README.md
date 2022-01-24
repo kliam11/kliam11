@@ -7,7 +7,7 @@ I am most proficient in Python (matpltolib, pandas, numpy), Java and C, but I st
 In school, I am currently learning software engineering practices, basic web development and algorithms. 
 On my own time, I am learning a smattering of data analysis, API development and building things with the Raspberry Pi. 
 
-## Projects 
+## Works  
 
 [Earth Satellite Tracker](https://github.com/kliam11/satellite-tracker)
 
