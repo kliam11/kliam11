@@ -1,4 +1,4 @@
 ## About Me 🤠
 
-Working on improving aome stuff. Stay tuned for more!! 
+Working on improving some stuff. Stay tuned for more!! 
 
