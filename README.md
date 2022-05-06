@@ -1,3 +1,5 @@
+<img width="1000" height="350" src="https://github.com/kliam11/kliam11/blob/main/banner.png">
+
 ### 👋 Hi, I'm Liam 
 
 I am a developer in training, interested in back-end development as well as embedded systems, and I am a huge space nerd. 
