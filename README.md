@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/New_York_City_skyline_banner.jpg">
+<img style="border-radius: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Doha_skyline_banner.jpg">
 
 ### 👋 Hi, I'm Liam 
 
