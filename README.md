@@ -10,4 +10,4 @@ algorithm analysis. On my spare time, I...
 
 I encourage you to take a look at some of the repositories I have. I am still actively learning, and so many changes are being made over time. 
 
-You can view my website at [kliam11.github.io](https://kliam11.github.io).
+You can view my website at [kliam11.github.io](https://liamakelly.com).
