@@ -1,4 +1,4 @@
-<img width="1000" height="350" src="https://github.com/kliam11/kliam11/blob/main/banner.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/New_York_City_skyline_banner.jpg">
 
 ### 👋 Hi, I'm Liam 
 
