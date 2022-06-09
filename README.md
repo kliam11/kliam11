@@ -1,5 +1,3 @@
-<img style="border-radius: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Doha_skyline_banner.jpg">
-
 ### 👋 Hi, I'm Liam 
 
 I am a developer in training, interested in back-end development as well as embedded systems, and I am a huge space nerd. 
